@@ -4,6 +4,11 @@
   "description": "A high-level API to control headless Chrome over the DevTools Protocol",
   "main": "./cjs-entry.js",
   "types": "lib/types.d.ts",
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com:Plato-solutions/puppeteer.git"
+  },
+
   "repository": "https://github.com/Plato-solutions/puppeteer",
   "engines": {
     "node": ">=10.18.1"
